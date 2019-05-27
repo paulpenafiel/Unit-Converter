@@ -1,0 +1,156 @@
+pascal
+megapascal
+kilopascal
+kilogramo por cm cuadrado
+libra por pulgada cuadrada
+pulgada de mercurio
+pie de agua
+pulgada de agua
+Newton por mm cuadrado
+atmosfera
+torricelli
+bar
+pascal-pascal	1
+pascal-megapascal	0,000001
+pascal-kilopascal	0,001
+pascal-kilogramo por cm cuadrado	0,0000101
+pascal-libra por pulgada cuadrada	0,0001450
+pascal-pulgada de mercurio	0,000294	
+pascal-pie de agua	0,0003344
+pascal-pulgada de agua	0,004
+pascal-Newton por mm cuadrado	0,000001
+pascal-atmosfera	0,0000098
+pascal-torricelli	0,0075
+pascal-bar	0,00001
+megapascal-pascal	999999,9
+megapascal-megapascal	1
+megapascal-kilopascal	1000
+megapascal-kilogramo por cm cuadrado	10,1967
+megapascal-libra por pulgada cuadrada	145,037
+megapascal-pulgada de mercurio	294,985
+megapascal-pie de agua	334,448
+megapascal-pulgada de agua	4000
+megapascal-Newton por mm cuadrado	1
+megapascal-atmosfera	9,869
+megapascal-torricelli	7500,63
+megapascal-bar	10
+kilopascal-pascal	1000
+kilopascal-megapascal	0,001
+kilopascal-kilopascal	1
+kilopascal-kilogramo por cm cuadrado	0,010
+kilopascal-libra por pulgada cuadrada	0,145
+kilopascal-pulgada de mercurio	0,29
+kilopascal-pie de agua	0,33
+kilopascal-pulgada de agua	4
+kilopascal-Newton por mm cuadrado	0,001
+kilopascal-atmosfera	0,009
+kilopascal-torricelli	7,5
+kilopascal-bar	0,01
+kilogramo por cm cuadrado-pascal	98070
+kilogramo por cm cuadrado-megapascal	0,098
+kilogramo por cm cuadrado-kilopascal	98,07
+kilogramo por cm cuadrado-kilogramo por cm cuadrado	1
+kilogramo por cm cuadrado-libra por pulgada cuadrada	14,22
+kilogramo por cm cuadrado-pulgada de mercurio	28,92
+kilogramo por cm cuadrado-pie de agua	32,7
+kilogramo por cm cuadrado-pulgada de agua	392,28
+kilogramo por cm cuadrado-Newton por mm cuadrado	0,098
+kilogramo por cm cuadrado-atmosfera	0,967	
+kilogramo por cm cuadrado-torricelli	735,58
+kilogramo por cm cuadrado-bar	0,98
+libra por pulgada cuadrada-pascal	6894,7
+libra por pulgada cuadrada-megapascal	0,00689
+libra por pulgada cuadrada-kilopascal	6,894
+libra por pulgada cuadrada-kilogramo por cm cuadrado	0,070
+libra por pulgada cuadrada-libra por pulgada cuadrada	1
+libra por pulgada cuadrada-pulgada de mercurio	2,033
+libra por pulgada cuadrada-pie de agua	2,305
+libra por pulgada cuadrada-pulgada de agua	27,57
+libra por pulgada cuadrada-Newton por mm cuadrado	0,0068	
+libra por pulgada cuadrada-atmosfera	0,068
+libra por pulgada cuadrada-torricelli	51,7150
+libra por pulgada cuadrada-bar	0,068
+pulgada de mercurio-pascal	3390
+pulgada de mercurio-megapascal	0,0033
+pulgada de mercurio-kilopascal	3,39
+pulgada de mercurio-kilogramo por cm cuadrado	0,034
+pulgada de mercurio-libra por pulgada cuadrada	0,4916
+pulgada de mercurio-pulgada de mercurio	1
+pulgada de mercurio-pie de agua	1,133
+pulgada de mercurio-pulgada de agua	13,56
+pulgada de mercurio-Newton por mm cuadrado	0,003
+pulgada de mercurio-atmosfera	0,033
+pulgada de mercurio-torricelli	25,42
+pulgada de mercurio-bar	0,033
+pie de agua-pascal	2990
+pie de agua-megapascal	0,0029
+pie de agua-kilopascal	2,99
+pie de agua-kilogramo por cm cuadrado	0,030
+pie de agua-libra por pulgada cuadrada	0,43
+pie de agua-pulgada de mercurio	0,8820
+pie de agua-pie de agua	1
+pie de agua-pulgada de agua	11,96
+pie de agua-Newton por mm cuadrado	0,0029
+pie de agua-atmosfera	0,029
+pie de agua-torricelli	22,42
+pie de agua-bar	0,029
+pulgada de agua-pascal	250
+pulgada de agua-megapascal	0,00025
+pulgada de agua-kilopascal	0,25
+pulgada de agua-kilogramo por cm cuadrado	0,002549
+pulgada de agua-libra por pulgada cuadrada	0,036
+pulgada de agua-pulgada de mercurio	0,0737
+pulgada de agua-pie de agua	0,0836
+pulgada de agua-pulgada de agua	1
+pulgada de agua-Newton por mm cuadrado	0,00025
+pulgada de agua-atmosfera	0,00246
+pulgada de agua-torricelli	1,875
+pulgada de agua-bar	0,0025
+Newton por mm cuadrado-pascal	999999,9
+Newton por mm cuadrado-megapascal	1
+Newton por mm cuadrado-kilopascal	1000
+Newton por mm cuadrado-kilogramo por cm cuadrado	10,196
+Newton por mm cuadrado-libra por pulgada cuadrada	145,037
+Newton por mm cuadrado-pulgada de mercurio	294,98
+Newton por mm cuadrado-pie de agua	334,448
+Newton por mm cuadrado-pulgada de agua	4000
+Newton por mm cuadrado-Newton por mm cuadrado	1
+Newton por mm cuadrado-atmosfera	9,8692
+Newton por mm cuadrado-torricelli	7500,6
+Newton por mm cuadrado-bar	10
+atmosfera-pascal	101325
+atmosfera-megapascal	0,1013
+atmosfera-kilopascal	101,325
+atmosfera-kilogramo por cm cuadrado	1,033
+atmosfera-libra por pulgada cuadrada	14,695
+atmosfera-pulgada de mercurio	29,889
+atmosfera-pie de agua	33,8879
+atmosfera-pulgada de agua	405,3
+atmosfera-Newton por mm cuadrado	0,1013
+atmosfera-atmosfera	1
+atmosfera-torricelli	760,002
+atmosfera-bar	1,0132
+torricelli-pascal	133,322
+torricelli-megapascal	0,00013
+torricelli-kilopascal	0,1333
+torricelli-kilogramo por cm cuadrado	0,001359
+torricelli-libra por pulgada cuadrada	0,01933
+torricelli-pulgada de mercurio	0,0393
+torricelli-pie de agua	0,04458
+torricelli-pulgada de agua	0,533
+torricelli-Newton por mm cuadrado	0,00013
+torricelli-atmosfera	0,001315
+torricelli-torricelli	1
+torricelli-bar	0,0013
+bar-pascal	100000
+bar-megapascal	0,1
+bar-kilopascal	100
+bar-kilogramo por cm cuadrado	1,01967
+bar-libra por pulgada cuadrada	14,50377
+bar-pulgada de mercurio	29,498
+bar-pie de agua	33,4448
+bar-pulgada de agua	400
+bar-Newton por mm cuadrado	0,1
+bar-atmosfera	0,98692
+bar-torricelli	750,063
+bar-bar	1

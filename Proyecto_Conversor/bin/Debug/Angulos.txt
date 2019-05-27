@@ -1,0 +1,42 @@
+radian
+grado Sexagesimal
+grado Centesimal
+mil Angular
+minuto de arco
+segundo Sexagesimal
+radian-radian	1
+radian-grado Sexagesimal	57,295
+radian-grado Centesimal	63,662	
+radian-mil Angular	6283,19
+radian-minuto de arco	3437,75
+radian-segundo Sexagesimal	206265
+grado Sexagesimal-radian	0,01745
+grado Sexagesimal-grado Sexagesimal	1
+grado Sexagesimal-grado Centesimal	1,111
+grado Sexagesimal-mil Angular	109,6623
+grado Sexagesimal-minuto de arco	60,000034
+grado Sexagesimal-segundo Sexagesimal	3600,002
+grado Centesimal-radian	0,0157
+grado Centesimal-grado Sexagesimal	0,9
+grado Centesimal-grado Centesimal	1
+grado Centesimal-mil Angular	98,69
+grado Centesimal-minuto de arco	54,0003
+grado Centesimal-segundo Sexagesimal	3240,001
+mil Angular-radian	0,000159
+mil Angular-grado Sexagesimal	0,00911
+mil Angular-grado Centesimal	0,010132
+mil Angular-mil Angular	1
+mil Angular-minuto de arco	0,547134
+mil Angular-segundo Sexagesimal	32,828069
+minuto de arco-radian	0,00029
+minuto de arco-grado Sexagesimal	0,01666
+minuto de arco-grado Centesimal	0,01851
+minuto de arco-mil Angular	1,82770
+minuto de arco-minuto de arco	1
+minuto de arco-segundo Sexagesimal	60
+segundo Sexagesimal-radian	0,0000048
+segundo Sexagesimal-grado Sexagesimal	0,0002777
+segundo Sexagesimal-grado Centesimal	0,0003086
+segundo Sexagesimal-mil Angular	0,0304617
+segundo Sexagesimal-minuto de arco	0,0166666
+segundo Sexagesimal-segundo Sexagesimal	1

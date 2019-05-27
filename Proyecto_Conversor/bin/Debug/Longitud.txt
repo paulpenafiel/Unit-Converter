@@ -1,0 +1,110 @@
+milimetro		
+centimetro	
+decimetro	
+metro	
+micrometro	     	
+nanometro	
+kilometro	
+milla	
+pie	
+pulgada
+milimetro-milimetro	1
+milimetro-centimetro	0,1
+milimetro-decimetro	0,01
+milimetro-metro	0,001	
+milimetro-micrometro	1000
+milimetro-nanometro	1000000
+milimetro-kilometro	0,000001
+milimetro-milla	0,000000621			
+milimetro-pie	0,00328
+milimetro-pulgada	0,0393701
+centimetro-milimetro	10
+centimetro-centimetro	1
+centimetro-decimetro	0,1
+centimetro-metro	0,01
+centimetro-micrometro	10000
+centimetro-nanometro	10000000
+centimetro-kilometro	0,00001
+centimetro-milla	0,00000621
+centimetro-pie		0,03
+centimetro-pulgada	0,39
+decimetro-milimetro	100
+decimetro-centimetro	10
+decimetro-decimetro	1
+decimetro-metro	0,1
+decimetro-micrometro	100000
+decimetro-nanometro	100000000
+decimetro-kilometro	0,001
+decimetro-milla	0,0000621
+decimetro-pie	0,33
+decimetro-pulgada	3,94
+metro-milimetro	1000	
+metro-centimetro	100	
+metro-decimetro	10
+metro-metro	1
+metro-micrometro	1000000		
+metro-nanometro	1000000000
+metro-kilometro	0,001
+metro-milla	0,000621
+metro-pie	3,28
+metro-pulgada	39,37
+micrometro-milimetro	0,01
+micrometro-centimtro	0,001
+micrometro-decimetro	0,0001
+micrometro-metro	0,00001
+micrometro-micrometro	1	
+micrometro-nanometro	1000
+micrometro-kilometro	0,00000001
+micrometro-milla	0,000000000621
+micrometro-pie	0,00000328
+micrometro-pulgada	0,0000394
+nanometro-milimetro	0,00001
+nanometro-centimetro	0,000001
+nanometro-decimetro	0,0000001
+nanometro-metro	0,00000001
+nanometro-micrometro	0,01
+nanometro-nanometro	1
+nanometro-kilometro	0,000000000001
+nanometro-milla	0,000000000000621
+nanometro-pie	0,00000000328
+nanometro-pulgada	0,0000000394
+kilometro-milimetro	1000000	
+kilometro-centimetro	100000
+kilometro-decimetro	10000
+kilometro-metro	1000	1000
+kilometro-micrometro	1000000000
+kilometro-nanometro	1000000000000
+kilometro-kilometro	1
+kilometro-milla	0,62
+kilometro-pie	3280,84
+kilometro-pulgada	39370,08
+milla-milimetro	1 609 344
+milla-centimetro	160934,4
+milla-decimetro	16093,44
+milla-metro	1609,34
+milla-micrometro	1609344000
+milla-nanometro	1610000000000
+milla-kilometro	1,61
+milla-milla	1
+milla-pie	5280
+milla-pulgada	63360
+pie-milimetro	304,8
+pie-centimetro	30,48
+pie-decimetro	3,05
+pie-metro	0,3
+pie-micrometro	304800
+pie-nanometro	304800000
+pie-kilometro	0,000305
+pie-milla	0,000189
+pie-pie	1
+pie-pulgada	12
+pulgada-milimetro	25,4
+pulgada-centimetro	2,54
+pulgada-decimetro	0,25
+pulgada-metro	0,03
+pulgada-micrometro	25400
+pulgada-nanometro	25400000
+pulgada-kilometro	0,0000254
+pulgada-milla	0,0000158
+pulgada-pie	0,08
+pulgada-pulgada	1

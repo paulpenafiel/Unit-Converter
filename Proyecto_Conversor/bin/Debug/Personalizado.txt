@@ -1,0 +1,6 @@
+
+
+megabyte-byte	1024
+byte-megabyte	0,000001
+bitcoin-dolar	3000
+dolar-bitcoin	0.003

@@ -1,0 +1,174 @@
+microsegundo
+milisegundo
+segundo
+minuto
+hora
+dia
+semana
+mes
+anio
+decada
+siglo
+milenio
+microsegundo-microsegundo	1
+microsegundo-milisegundo	0,001	
+microsegundo-segundos	0,000001
+microsegundo-minuto	0,000000016667
+microsegundo-hora	0,00000000027778
+microsegundo-dia	0,000000000011574
+microsegundo-semana	0,0000000000016534	
+microsegundo-mes	0,00000000000038052
+microsegundo-anio	0,00000000000003171
+microsegundo-decada	0,000000000000003171
+microsegundo-siglo	0,0000000000000003171
+microsegundo-milenio	0,00000000000000003171
+milisegundo-microsegundo	1000
+milisegundo-milisegundo	1
+milisegundo-segundo	0,001 
+milisegundo-minuto	0,000016667
+milisegundo-horas	0,00000027778
+milisegundo-dias	0,000000011574
+milisegundo-semanas	0,0000000016534
+milisegundo-mes	0,00000000038052
+milisegundo-anio	0,00000000003171
+milisegundo-decada	0,000000000003171
+milisegundo-siglo	0,0000000000003171
+milisegundo-milenio	0,00000000000003171
+segundo-microsegundo	1000000
+segundo-milisegundo	1000
+segundo-segundo	1
+segundo-minuto	0,0166667
+segundo-hora	0,000277778
+segundo-dia	0,000011574
+segundo-semana	0,0000016534
+segundo-mes	0,00000038052
+segundo-anio	0,00000003171
+segundo-decada	0,000000003171
+segundo-siglo	0,0000000003171
+segundo-milenio	0,00000000003171
+minuto-microsegundo	60000000
+minuto-milisegundo	60000
+minuto-segundo	60
+minuto-minuto	1
+minuto-hora	0,0166667
+minuto-dia	0,000694444
+minuto-semana	0,000099206
+minuto-mes	0,000022831
+minuto-anio	0,0000019026
+minuto-decada	0,00000019026
+minuto-siglo	0,000000019026
+minuto-milenio	0,0000000019026	
+hora-microsegundo	3600000000	
+hora-milisegundo	3600000	
+hora-segundo	3600	
+hora-minuto	60
+hora-hora	1
+hora-dia	0,0416667
+hora-semana	0,00595238
+hora-mes	0,00136986
+hora-anio	0,000114155
+hora-decada	0,000011416
+hora-siglo	0,0000011416	
+hora-milenio	0,00000011416
+dia-microsegundo	86400000000
+dia-milisegundo	86400000		
+dia-segundo	86400	
+dia-minuto	1440
+dia-hora	24
+dia-dia	1	
+dia-semana	0,142857	
+dia-mes	0,0328767
+dia-anio	0,00273973	
+dia-decada	0,000273973	
+dia-siglo	0,0000273973		
+dia-milenio	0,0000027397	
+semana-microsegundo	604800000000	
+semana-milisegundo	604800000	
+semana-segundo	604800	
+semana-minuto	10080	
+semana-hora	168	
+semana-dia	0,0416667		
+semana-semana	1	
+semana-mes	0,230137	
+semana-anio	0,0191781
+semana-decada	0,00191781		
+semana-siglo	0,000191781	
+semana-milenio	0,000019178	
+mes-microsegundo	2628000000000	
+mes-milisegundo	2628000000	
+mes-segundo	2628000	
+mes-minuto	43800		
+mes-hora	730,001
+mes-dia	30,4167
+mes-semana	4,34524	
+mes-mes	1	
+mes-anio	0,0833334	
+mes-decada	0,00833334	
+mes-siglo	0,000833334		
+mes-milenio	0,000083333
+anio-microsegundo	31540000000000	
+anio-milisegundo	31540000000		
+anio-segundo	31540000		
+anio-minuto	525600	
+anio-hora	8760
+anio-dia	365	
+anio-semana	52,1429	
+anio-mes	12	
+anio-anio	1	
+anio-decada	0,1	
+anio-siglo	0,01	
+anio-milenio	0,001	
+decada-microsegundo	315400000000000	
+decada-milisegundo	315400000000		
+decada-segundo	315400000	
+decada-minuto	5256000		
+decada-hora	87600		
+decada-dia	3650	
+decada-semana	521,429		
+decada-mes	120		
+decada-anio	10		
+decada-decada	1		
+decada-siglo	0,1	
+decada-milenio	0,01
+siglo-microsegundo	3154000000000000		
+siglo-milisegundo	3154000000000	
+siglo-segundo	3154000000	
+siglo-minuto	52560000		
+siglo-hora	876000		
+siglo-dia	36500		
+siglo-semana	5214,29	
+siglo-mes	1200	
+siglo-anio	100	
+siglo-decada	10	
+siglo-siglo	1
+siglo-milenio	0,1
+milenio-microsegundo	31540000000000000	
+milenio-milisegundo	3154000000000	
+milenio-segundo	31540000000		
+milenio-minuto	525600000	
+milenio-hora	8760000	
+milenio-dia	365000
+milenio-semana	52142,9	
+milenio-mes	12000	
+milenio-anio	1000	
+milenio-decada	100	
+milenio-siglo	10	
+milenio-milenio	1
+
+
+
+
+			
+
+
+	
+
+
+
+
+
+
+
+
+
+

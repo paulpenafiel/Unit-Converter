@@ -1,0 +1,162 @@
+dolar
+euro
+yen japones
+libra esterlina
+franco suizo
+dolar australiano
+dolar canadiense
+corona sueca
+dolar de hong kong
+corona noruega
+yuan chino 
+dolar neozelandes
+dolar-dolar	1
+dolar-euro	0,87680
+dolar-yen japones	113,86	
+dolar-libra esterlina	0,77554
+dolar-franco suizo	0,96361
+dolar-dolar australiano	1,31422
+dolar-dolar canadiense	1,28735
+dolar-corona sueca	8,41965
+dolar-dolar de hong kong	7,81099
+dolar-corona noruega	8,35176
+dolar-yuan chino	6,80458 
+dolar-dolar neozelandes	1,37221
+euro-dolar	1,13951
+euro-euro	1
+euro-yen japones	129,82	
+euro-libra esterlina	0,88429
+euro-franco suizo	1,09821
+euro-dolar australiano	1,49827
+euro-dolar canadiense	1,46695
+euro-corona sueca	9,60361
+euro-dolar de hong kong	8,90348
+euro-corona noruega	9,52300
+euro-yuan chino	7,75389 
+euro-dolar neozelandes	1,56365
+yen japones-dolar	0,00878
+yen japones-euro	0,00770
+yen japones-yen japones	1
+yen japones-libra esterlina	0,00681
+yen japones-franco suizo	0,00846
+yen japones-dolar australiano	0,01153
+yen japones-dolar canadiense	0,01130
+yen japones-corona sueca	0,07388
+yen japones-dolar de hong kong	0,06854
+yen japones-corona noruega	0,07329
+yen japones-yuan chino	0,05971
+yen japones-dolar neozelandes	0,01204
+libra esterlina-dolar	1,28792
+libra esterlina-euro	1,12957
+libra esterlina-yen japones	146,69
+libra esterlina-libra esterlina	1
+libra esterlina-franco suizo	1,24140
+libra esterlina-dolar australiano	1,69260
+libra esterlina-dolar canadiense	1,65800
+libra esterlina-corona sueca	10,8438
+libra esterlina-dolar de hong kong	10,0599
+libra esterlina-corona noruega	10,7564
+libra esterlina-yuan chino	8,76376
+libra esterlina-dolar neozelandes	1,76730
+franco suizo-dolar	1,03701
+franco suizo-euro	0,90933
+franco suizo-yen japones	118,07
+franco suizo-libra esterlina	0,80425
+franco suizo-franco suizo	1
+franco suizo-dolar australiano	1,36286
+franco suizo-dolar canadiense	1,33500
+franco suizo-corona sueca	8,73127
+franco suizo-dolar de hong kong	8,10008
+franco suizo-corona noruega	8,66087
+franco suizo-yuan chino	7,05643
+franco suizo-dolar neozelandes	1,42300
+dolar australiano-dolar	0,76006
+dolar australiano-euro	0,66655
+dolar australiano-yen japones	86,52
+dolar australiano-libra esterlina	0,58946
+dolar australiano-franco suizo	0,73240
+dolar australiano-dolar australiano	1
+dolar australiano-dolar canadiense	0,97846
+dolar australiano-corona sueca	6,39944
+dolar australiano-dolar de hong kong	5,93682
+dolar australiano-corona noruega	6,34784
+dolar australiano-yuan chino	5,17189
+dolar australiano-dolar neozelandes	1,04241
+dolar canadiense-dolar	0,77640		
+dolar canadiense-euro		0,68075
+dolar canadiense-yen japones	88,40	
+dolar canadiense-libra esterlina	0,60213	
+dolar canadiense-franco suizo	0,74814	
+dolar canadiense-dolar australiano	1,02035
+dolar canadiense-dolar canadiense	1
+dolar canadiense-corona sueca	0,74814
+dolar canadiense-dolar de hong kong	6,06443
+dolar canadiense-corona noruega	6,48429
+dolar canadiense-yuan chino	5,28306
+dolar canadiense-dolar neozelandes	1,06538
+corona sueca-dolar	0,11853
+corona sueca-euro	0,10403
+corona sueca-yen japones	13,50
+corona sueca-libra esterlina	0,09193
+corona sueca-franco suizo	0,11422
+corona sueca-dolar australiano	0,15578
+corona sueca-dolar canadiense	0,15260
+corona sueca-corona sueca	1
+corona sueca-dolar de hong kong	0,92587
+corona sueca-corona noruega	0,98997	
+corona sueca-yuan chino	0,80657
+corona sueca-dolar neozelandes	0,16265
+dolar de hong kong-dolar	0,12799
+dolar de hong kong-euro	0,11225
+dolar de hong kong-yen japones	14,57
+dolar de hong kong-libra esterlina	0,09926
+dolar de hong kong-franco suizo	0,12333
+dolar de hong kong-dolar australiano	0,16821
+dolar de hong kong-dolar canadiense	0,16477
+dolar de hong kong-corona sueca	1,07765
+dolar de hong kong-dolar de hong kong	1
+dolar de hong kong-corona noruega	1,06896
+dolar de hong kong-yuan chino	0,87093
+dolar de hong kong-dolar neozelandes	0,17563
+corona noruega-dolar	0,11930
+corona noruega-euro	0,10467
+corona noruega-yen japones	13,58
+corona noruega-libra esterlina	0,09253
+corona noruega-franco suizo	0,11496
+corona noruega-dolar australiano	0,15679
+corona noruega-dolar canadiense	0,15359
+corona noruega-corona sueca	1,00450
+corona noruega-dolar de hong kong	0,93188
+corona noruega-corona noruega	1
+corona noruega-yuan chino	0,81182
+corona noruega-dolar neozelandes	0,16371
+yuan chino-dolar	0,14693	
+yuan chino-euro	0,12883
+yuan chino-yen japones	16,73
+yuan chino-libra esterlina	0,11395
+yuan chino-franco suizo	0,14158	
+yuan chino-dolar australiano	0,19309
+yuan chino-dolar canadiense	0,18915
+yuan chino-corona sueca	1,23707
+yuan chino-dolar de hong kong	1,14764
+yuan chino-corona noruega	1,22709
+yuan chino-yuan chino	1
+yuan chino-dolar neozelandes	0,20161
+dolar neozelandes-dolar	0,72744
+dolar neozelandes-euro	0,63782
+dolar neozelandes-yen japones	82,82
+dolar neozelandes-libra esterlina	0,56416
+dolar neozelandes-franco suizo	0,70097
+dolar neozelandes-dolar australiano	0,95565
+dolar neozelandes-dolar canadiense	0,93647
+dolar neozelandes-corona sueca	6,12479
+dolar neozelandes-dolar de hong kong	5,68203
+dolar neozelandes-corona noruega	6,07540
+dolar neozelandes-yuan chino	4,94993
+dolar neozelandes-dolar neozelandes	1
+
+
+
+
+
+

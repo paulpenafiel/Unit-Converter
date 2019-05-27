@@ -1,0 +1,11 @@
+c:\users\usuario\documents\visual studio 2012\Projects\Proyecto_Conversor\Proyecto_Conversor\bin\Debug\Proyecto_Conversor.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\Proyecto_Conversor\Proyecto_Conversor\bin\Debug\Proyecto_Conversor.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Proyecto_Conversor\Proyecto_Conversor\bin\Debug\Proyecto_Conversor.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\Proyecto_Conversor\Proyecto_Conversor\obj\Debug\Proyecto_Conversor.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2012\Projects\Proyecto_Conversor\Proyecto_Conversor\obj\Debug\Proyecto_Conversor.Form1.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Proyecto_Conversor\Proyecto_Conversor\obj\Debug\Proyecto_Conversor.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Proyecto_Conversor\Proyecto_Conversor\obj\Debug\Proyecto_Conversor.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2012\Projects\Proyecto_Conversor\Proyecto_Conversor\obj\Debug\Proyecto_Conversor.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Proyecto_Conversor\Proyecto_Conversor\obj\Debug\Proyecto_Conversor.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Proyecto_Conversor\Proyecto_Conversor\obj\Debug\Proyecto_Conversor.VentanaPersonalizar.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Proyecto_Conversor\Proyecto_Conversor\obj\Debug\Proyecto_Conversor.VentanaReporte.resources

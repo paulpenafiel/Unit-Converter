@@ -1,0 +1,159 @@
+kilogramo		
+gramo		
+miligramo		
+onza		
+libra		
+tonelada	
+microgramo
+decagramo
+arroba
+quintal
+quilate
+centigramo
+kilogramo-kilogramo	1
+kilogramo-gramo	1000
+kilogramo-miligramo	1000000
+kilogramo-onza	35,27
+kilogramo-libra	2,2
+kilogramo-tonelada	0,0011
+kilogramo-microgramo	1000000000
+kilogramo-decagramo	10
+kilogramo-arroba	0,09	
+kilogramo-quintal	0,,01
+kilogramo-quilate	5000,000
+kilogramo-centigramo	100000
+gramo-kilogramo	0,001
+gramo-gramo	1
+gramo-miligramo	1000
+gramo-onza	0,04
+gramo-libra	0,0022
+gramo-tonelada	0,0000011
+gramo-microgramo	1,000000
+gramo-decagramo	10
+gramo-arroba	0,00000008818490682
+gramo-quintal	0,00001
+gramo-quilate	5
+gramo-centigramo	100
+miligramo-kilogramo	0,000001
+miligramo-gramo	0,001
+miligramo-miligramo	1
+miligramo-onza	0,0000353
+miligramo-libra	0,0000022
+miligramo-tonelada	0,00000001
+miligramo-microgramo	1000
+miligramo-decagramo	0,0001
+miligramo-arroba	8,818490487395
+miligramo-quintal	0,00000001
+miligramo-quilate	0,005
+miligramo-centigramo	0,0001
+onza-kilogramo	0,03
+onza-gramo	28,35
+onza-miligramo	28349,54
+onza-onza	1
+onza-libra	0,06
+onza-tonelada	0,0000283
+onza-microgramo	28350000
+onza-decagramo	2,8349523125
+onza-arroba	0,0025
+onza-quintal	0,00000001
+onza-quilate	141,748
+onza-centigramo	2834,95
+libra-kilogramo	0,45
+libra-gramo	453,59
+libra-miligramo	453592,7
+libra-onza	16
+libra-libra	1
+libra-tonelada	0,000454
+libra-microgramo	453600000
+libra-decagramo	45,3592
+libra-arroba	0,04
+libra-quintal	0,00453592
+libra-quilate	2267,96
+libra-centigramo	45359,2
+tonelada-kilogramo	907,18
+tonelada-gramo	907185
+tonelada-miligramo	907184995,8
+tonelada-onza	31999,99
+tonelada-libra	2000
+tonelada-tonelada	1
+tonelada-microgramo	1000000000000
+tonelada-decagramo	100000
+tonelada-arroba	88,18490487395
+tonelada-quintal	10
+tonelada-quilate	5000000
+tonelada-centigramo	100000000
+microgramo-kilogramo	0,000000001
+microgramo-gramo	0,000001
+microgramo-miligramo	0,001
+microgramo-onza	0,000000035274
+microgramo-libra	0,0000000022046
+microgramo-tonelada	0,000000000001
+microgramo-microgramo	1
+microgramo-decagramo	0,0000001
+microgramo-arroba	8,818490487395
+microgramo-quintal	0,00000000001
+microgramo-quilate	0,000005
+microgramo-centigramo	0,0001
+decagramo-kilogramo	0,01
+decagramo-gramo	10
+decagramo-miligramo	10000
+decagramo-onza	0,35274
+decagramo-libra	0,0220462
+decagramo-tonelada	0,00001
+decagramo-microgramo	10000000
+decagramo-decagramo	1
+decagramo-arroba	0,000881849048
+decagramo-quintal	0,0001
+decagramo-quilate	50
+decagramo-centigramo	1000
+arroba-kilogramo	11,33980925
+arroba-gramo	11339,80925
+arroba-miligramo	11339809,25
+arroba-onza	400
+arroba-libra	25
+arroba-tonelada	0,01133980925
+arroba-microgramo	11339809250
+arroba-decagramo	1133,980925
+arroba-arroba	1
+arroba-quintal	0,1133980925
+arroba-quilate	73450,560427776
+arroba-centigramo	1133980,925
+quintal-kilogramo 100
+quintal-gramo	100000
+quintal-miligramo	100000000
+quintal-onza	3527,396194958
+quintal-libra	220,4622621848
+quintal-tonelada	0,1
+quintal-microgramo	100000000000
+quintal-decagramo	10000
+quintal-arroba	8,818490487395
+quintal-quintal	1
+quintal-quilate	500000
+quintal-centigramo	10000000
+quilate-kilogramo	0,0002
+quilate-gramo	0,2
+quilate-miligramo	200 
+quilate-onza	0,00705479
+quilate-libra	0,000440925
+quilate-tonelada	0,0000002
+quilate-microgramo	200000
+quilate-decagramo	0,02
+quilate-arroba	0,0000136146
+quilate-quintal	0,000002
+quilate-quilate	1
+quilate-centigramo	20
+centigramo-kilogramo	0,00001
+centigramo-gramo	0,01
+centigramo-miligramo	10
+centigramo-onza	0,00035274
+centigramo-libra	0,000022046
+centigramo-tonelada	0,00000001
+centigramo-microgramo	10000
+centigramo-decagramo	0,001
+centigramo-arroba	8,818490487395
+centigramo-quintal	0,0000001
+centigramo-quilate	0,05
+centigramo-centigramo	1
+
+
+

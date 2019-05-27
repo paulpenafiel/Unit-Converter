@@ -1,0 +1,280 @@
+galones
+litros 
+Pies cubicos
+Metros cubicos
+Mililitros
+centrilitros
+pulgadas cubicas
+kilolitros
+barriles
+pintas
+yardas cubicas
+gills
+tazas
+onzas
+cucharadas
+cuartos de galon
+galones-galones	1
+galones-litros	3,785412
+galones-Pies cubicos	0,1336806
+galones-Metros cubicos	0,003785412
+galones-Mililitros	3785,412
+galones-centrilitros	378,5412
+galones-pulgadas cubicas	231,0000
+galones-kilolitros	0,003785412
+galones-barriles	1,000000
+galones-pintas	8,000000
+galones-yardas cubicas	0,004951132
+galones-gills	32,00000
+galones-tazas	16
+galones-onzas	128,0000
+galones-cucharadas	256
+galones-cuartos de galon	4,000000
+litros-galones	2,113376
+litros-litros	1 
+litros-Pies cubicos	0,03531467
+litros-Metros cubicos	0,001000000
+litros-Mililitros	1000,000
+litros-centrilitros	100,0000
+litros-pulgadas cubicas	61,02374
+litros-kilolitros	0,001000000
+litros-barriles	0,2641721
+litros-pintas	2,113376
+litros-yardas cubicas	0,001307951
+litros-gills	8,453506	
+litros-tazas	4
+litros-onzas	33,81402
+litros-cucharadas	67
+litros-cuartos de galon	1,056688
+Pies cubicos-galones	7
+Pies cubicos-litros	28,31685
+Pies cubicos-Pies cubicos	1
+Pies cubicos-Metros cubicos	 0,02831685
+Pies cubicos-Mililitros	28316,85
+Pies cubicos-centrilitros	2831,685
+Pies cubicos-pulgadas cubicas	1728,000
+Pies cubicos-kilolitros	0,02831685
+Pies cubicos-barriles	7,480519
+Pies cubicos-pintas	59,84415
+Pies cubicos-yardas cubicas	0,03703704
+Pies cubicos-gills	239,3766
+Pies cubicos-tazas	119,6883
+Pies cubicos-onzas	957,5065
+Pies cubicos-cucharadas	1915
+Pies cubicos-cuartos de galon	25
+Metros cubicos-galones	264
+Metros cubicos-litros	1000,000
+Metros cubicos-Pies cubicos	35,31467
+Metros cubicos-Metros cubicos	1
+Metros cubicos-Mililitros	1000000
+Metros cubicos-centrilitros	100000,0
+Metros cubicos-pulgadas cubicas	61023,74
+Metros cubicos-kilolitros	1,000000
+Metros cubicos-barriles	8
+Metros cubicos-pintas	2113,376
+Metros cubicos-yardas cubicas	1,307951
+Metros cubicos-gills	8453,506
+Metros cubicos-tazas	4226,753
+Metros cubicos-onzas	33814,02
+Metros cubicos-cucharadas	67628
+Metros cubicos-cuartos de galon	1056,688
+Mililitros-galones	0,002113376
+Mililitros-litros	0,001000000 
+Mililitros-Pies cubicos		0,00003531467
+Mililitros-Metros cubicos	0,000001000000
+Mililitros-Mililitros	1
+Mililitros-centrilitros	0,1000000
+Mililitros-pulgadas cubicas	0,00006102374
+Mililitros-kilolitros	0,000001000000
+Mililitros-barriles	0,0002641721
+Mililitros-pintas	0,002113376
+Mililitros-yardas cubicas	0,000001307951
+Mililitros-gills	0,008453506
+Mililitros-tazas	1,000000
+Mililitros-onzas	0,03381402
+Mililitros-cucharadas	0,2028841
+Mililitros-cuartos de galon	0,001056688
+centrilitros-galones	0,02113376
+centrilitros-litros	0,01000000
+centrilitros-Pies cubicos	0,0003531467
+centrilitros-Metros cubicos	 0,00001000000
+centrilitros-Mililitros	10,00000
+centrilitros-centrilitros	1
+centrilitros-pulgadas cubicas	0,6102374
+centrilitros-kilolitros	0,00001000000
+centrilitros-barriles	0,002641721
+centrilitros-pintas	0,02113376
+centrilitros-yardas cubicas	0,00001307951
+centrilitros-gills	0,08453506
+centrilitros-tazas	0,04
+centrilitros-onzas	0,3381402
+centrilitros-cucharadas	2,028841
+centrilitros-cuartos de galon	0,01056688
+pulgadas cubicas-galones	0,03463203
+pulgadas cubicas-litros	0,01638706 
+pulgadas cubicas-Pies cubicos	0,0005787037
+pulgadas cubicas-Metros cubicos	0,00001638706
+pulgadas cubicas-Mililitros	16,38706
+pulgadas cubicas-centrilitros	1,638706
+pulgadas cubicas-pulgadas cubicas	1 
+pulgadas cubicas-kilolitros	0,00001638706
+pulgadas cubicas-barriles	0,004329004
+pulgadas cubicas-pintas	0,03463203
+pulgadas cubicas-yardas cubicas	0,00002143347
+pulgadas cubicas-gills	0,1385281
+pulgadas cubicas-tazas	0,07
+pulgadas cubicas-onzas	0,5541126
+pulgadas cubicas-cucharadas	1
+pulgadas cubicas-cuartos de galon	0,000000
+kilolitros-galones	264
+kilolitros-litros	1000,000 
+kilolitros-Pies cubicos	35,31467
+kilolitros-Metros cubicos	1,000000
+kilolitros-Mililitros	1000000
+kilolitros-centrilitros	100000,0
+kilolitros-pulgadas cubicas	61023,74
+kilolitros-kilolitros	1
+kilolitros-barriles	8
+kilolitros-pintas	2113,376
+kilolitros-yardas cubicas	1,307951
+kilolitros-gills	8453,506
+kilolitros-tazas	4226,753
+kilolitros-onzas	 33814,02
+kilolitros-cucharadas	67628
+kilolitros-cuartos de galon	1056,688
+barriles-galones	31
+barriles-litros	119,2405 
+barriles-Pies cubicos	4,210938
+barriles-Metros cubicos	0,1192405
+barriles-Mililitros	119240,5
+barriles-centrilitros	11924,05
+barriles-pulgadas cubicas	7276,500 
+barriles-kilolitros	0,1192405
+barriles-barriles	1
+barriles-pintas	252,0000
+barriles-yardas cubicas	0,1559606
+barriles-gills	1008,000
+barriles-tazas	504
+barriles-onzas	4032,000
+barriles-cucharadas	 8064
+barriles-cuartos de galon	126,0000
+pintas-galones	1,000000
+pintas-litros	0,4731765 
+pintas-Pies cubicos	0,01671007
+pintas-Metros cubicos	0,0004731765
+pintas-Mililitros	 473,1765
+pintas-centrilitros	47,31765
+pintas-pulgadas cubicas	28,87500 
+pintas-kilolitros	0,0004731765
+pintas-barriles	0,1250000
+pintas-pintas	1
+pintas-yardas cubicas		0,0006188915
+pintas-gills	4,000000
+pintas-tazas	2
+pintas-onzas	16,00000
+pintas-cucharadas	32
+pintas-cuartos de galon	0,5000000
+yardas cubicas-galones	201
+yardas cubicas-litros	764,5549 
+yardas cubicas-Pies cubicos	27,00000
+yardas cubicas-Metros cubicos	0,7645549
+yardas cubicas-Mililitros	 764554,9
+yardas cubicas-centrilitros	76455,49
+yardas cubicas-pulgadas cubicas	46656,00 
+yardas cubicas-kilolitros	0,7645549
+yardas cubicas-barriles	6
+yardas cubicas-pintas		1615,792
+yardas cubicas-yardas cubicas	1
+yardas cubicas-gills	6463,169
+yardas cubicas-tazas	3231,584
+yardas cubicas-onzas	25852,68
+yardas cubicas-cucharadas	51705
+yardas cubicas-cuartos de galon	807,8961
+gills-galones	0,2500000
+gills-litros	0,1182941
+gills-Pies cubicos	0,004177517
+gills-Metros cubicos	0,0001182941
+gills-Mililitros	118,2941
+gills-centrilitros	11,82941
+gills-pulgadas cubicas	7,218750
+gills-kilolitros	0,0001182941
+gills-barriles	0,03125000
+gills-pintas	0,2500000
+gills-yardas cubicas	0,0001547229
+gills-gills	1
+gills-tazas	0,5000000
+gills-onzas	4,000000
+gills-cucharadas	8
+gills-cuartos de galon	0,1250000
+tazas-galones
+tazas-litros 
+tazas-Pies cubicos
+tazas-Metros cubicos
+tazas-Mililitros
+tazas-centrilitros
+tazas-pulgadas cubicas 
+tazas-kilolitros
+tazas-barriles
+tazas-pintas
+tazas-yardas cubicas
+tazas-gills
+tazas-tazas	1
+tazas-onzas
+tazas-cucharadas
+tazas-cuartos de galon
+onzas-galones
+onzas-litros 
+onzas-Pies cubicos
+onzas-Metros cubicos
+onzas-Mililitros
+onzas-centrilitros
+onzas-pulgadas cubicas 
+onzas-kilolitros
+onzas-barriles
+onzas-pintas
+onzas-yardas cubicas
+onzas-gills
+onzas-tazas
+onzas-onzas	1
+onzas-cucharadas
+onzas-cuartos de galon
+cucharadas-galones
+cucharadas-litros 
+cucharadas-Pies cubicos
+cucharadas-Metros cubicos
+cucharadas-Mililitros
+cucharadas-centrilitros
+cucharadas-pulgadas cubicas 
+cucharadas-kilolitros
+cucharadas-barriles
+cucharadas-pintas
+cucharadas-yardas cubicas
+cucharadas-gills
+cucharadas-tazas
+cucharadas-onzas
+cucharadas-cucharadas	1
+cucharadas-cuartos de galon
+cuartos de galon-galones
+cuartos de galon-litros 
+cuartos de galon-Pies cubicos
+cuartos de galon-Metros cubicos
+cuartos de galon-Mililitros
+cuartos de galon-centrilitros
+cuartos de galon-pulgadas cubicas 
+cuartos de galon-kilolitros
+cuartos de galon-barriles
+cuartos de galon-pintas
+cuartos de galon-yardas cubicas
+cuartos de galon-gills
+cuartos de galon-tazas
+cuartos de galon-onzas
+cuartos de galon-cucharadas
+cuartos de galon-cuartos de galon	1
+
+
+
+
+
+
+
+

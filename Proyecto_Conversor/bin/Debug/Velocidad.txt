@@ -1,0 +1,157 @@
+kilometros por segundo
+metros por segundo
+milla por segundo
+pie por segundo
+pulgada por segundo
+kilometros por minuto
+metros por minuto
+mile por minuto 
+pie por minuto 
+pulgada por minuto
+kilometros por hora
+metros por hora 
+kilometros por segundo-kilometros por segundo	1
+kilometros por segundo-metros por segundo	1 000
+kilometros por segundo-milla por segundo	0,6214
+kilometros por segundo-pie por segundo	3 281
+kilometros por segundo-pulgada por segundo	39 370
+kilometros por segundo-kilometros por minuto	60
+kilometros por segundo-metros por minuto	60 000
+kilometros por segundo-mile por minuto	37,28 
+kilometros por segundo-pie por minuto	196 900
+kilometros por segundo-pulgada por minuto	2 362 000
+kilometros por segundo-kilometros por hora	3 600
+kilometros por segundo-metros por hora	3 600 000
+metros por segundo-kilometros por segundo	0,001
+metros por segundo-metros por segundo	1
+metros por segundo-milla por segundo	0,0006214
+metros por segundo-pie por segundo	3,281
+metros por segundo-pulgada por segundo	39,37
+metros por segundo-kilometros por minuto	0,06
+metros por segundo-metros por minuto	60
+metros por segundo-mile por minuto	0,03728
+metros por segundo-pie por minuto	196,9
+metros por segundo-pulgada por minuto	2 362
+metros por segundo-kilometros por hora	3,6
+metros por segundo-metros por hora	3 600 
+milla por segundo-kilometros por segundo	1,609
+milla por segundo-metros por segundo	1 609
+milla por segundo-milla por segundo	1
+milla por segundo-pie por segundo	5 280
+milla por segundo-pulgada por segundo	63 360
+milla por segundo-kilometros por minuto	96,56
+milla por segundo-metros por minuto	96 560
+milla por segundo-mile por minuto	60
+milla por segundo-pie por minuto	316 800
+milla por segundo-pulgada por minuto	3 802 000
+milla por segundo-kilometros por hora	5 794
+milla por segundo-metros por hora	5 794 000
+pie por segundo-kilometros por segundo	0,0003048
+pie por segundo-metros por segundo	0,3048
+pie por segundo-milla por segundo	0,0001894
+pie por segundo-pie por segundo	1
+pie por segundo-pulgada por segundo	12
+pie por segundo-kilometros por minuto	0,01829
+pie por segundo-metros por minuto	18,29
+pie por segundo-mile por minuto	0,01136
+pie por segundo-pie por minuto	60
+pie por segundo-pulgada por minuto	720
+pie por segundo-kilometros por hora	1,097
+pie por segundo-metros por hora	10,97 
+pulgada por segundo-kilometros por segundo	0,0000254
+pulgada por segundo-metros por segundo	0,0254
+pulgada por segundo-milla por segundo	0,00001578
+pulgada por segundo-pie por segundo	0,08333
+pulgada por segundo-pulgada por segundo	1
+pulgada por segundo-kilometros por minuto	0,001524
+pulgada por segundo-metros por minuto	1,524
+pulgada por segundo-mile por minuto	0,000947
+pulgada por segundo-pie por minuto	5
+pulgada por segundo-pulgada por minuto	60	
+pulgada por segundo-kilometros por hora	0,09144
+pulgada por segundo-metros por hora	91,44
+kilometros por minuto-kilometros por segundo	0,01667
+kilometros por minuto-metros por segundo	16,67
+kilometros por minuto-milla por segundo	0,01036
+kilometros por minuto-pie por segundo	54,68
+kilometros por minuto-pulgada por segundo	656,2
+kilometros por minuto-kilometros por minuto	1
+kilometros por minuto-metros por minuto	1 000
+kilometros por minuto-mile por minuto	0,6214
+kilometros por minuto-pie por minuto	3 281
+kilometros por minuto-pulgada por minuto	39 370
+kilometros por minuto-kilometros por hora	60
+kilometros por minuto-metros por hora	60 000
+metros por minuto-kilometros por segundo	0,00001667
+metros por minuto-metros por segundo	0,01667
+metros por minuto-milla por segundo	0,00001036
+metros por minuto-pie por segundo	0,05468
+metros por minuto-pulgada por segundo	0,6562
+metros por minuto-kilometros por minuto	0,001
+metros por minuto-metros por minuto	1
+metros por minuto-mile por minuto	0,0006214
+metros por minuto-pie por minuto	3,281
+metros por minuto-pulgada por minuto	39,37
+metros por minuto-kilometros por hora	0,06	
+metros por minuto-metros por hora	60 
+mile por minuto-kilometros por segundo	0,02682
+mile por minuto-metros por segundo	26,82
+mile por minuto-milla por segundo	0,01667
+mile por minuto-pie por segundo	88
+mile por minuto-pulgada por segundo	1 056
+mile por minuto-kilometros por minuto	1,609
+mile por minuto-metros por minuto	1 609
+mile por minuto-mile por minuto	1
+mile por minuto-pie por minuto	5 280
+mile por minuto-pulgada por minuto	63 360
+mile por minuto-kilometros por hora	96,56
+mile por minuto-metros por hora	96 560 
+pie por minuto-kilometros por segundo	0,00000508
+pie por minuto-metros por segundo	0,00508
+pie por minuto-milla por segundo	0,000003157
+pie por minuto-pie por segundo	0,01667
+pie por minuto-pulgada por segundo	0,2
+pie por minuto-kilometros por minuto	0,0003048
+pie por minuto-metros por minuto	0,3048
+pie por minuto-mile por minuto	0,0001894
+pie por minuto-pie por minuto	1
+pie por minuto-pulgada por minuto	12
+pie por minuto-kilometros por hora	0,01829
+pie por minuto-metros por hora	18,29
+pulgada por minuto-kilometros por segundo	0,0000004233
+pulgada por minuto-metros por segundo	0,0004233
+pulgada por minuto-milla por segundo	0,000000263
+pulgada por minuto-pie por segundo	0,001389
+pulgada por minuto-pulgada por segundo	0,01667
+pulgada por minuto-kilometros por minuto	0,0000254
+pulgada por minuto-metros por minuto	0,0254
+pulgada por minuto-mile por minuto	0,00001578
+pulgada por minuto-pie por minuto	0,08333
+pulgada por minuto-pulgada por minuto	1
+pulgada por minuto-kilometros por hora	0,001524
+pulgada por minuto-metros por hora	1,524
+kilometros por hora-kilometros por segundo	0,0002778
+kilometros por hora-metros por segundo	0,2778
+kilometros por hora-milla por segundo	0,0001726
+kilometros por hora-pie por segundo	0,9113
+kilometros por hora-pulgada por segundo	10,94
+kilometros por hora-kilometros por minuto	0,01667	
+kilometros por hora-metros por minuto	16,67	
+kilometros por hora-mile por minuto	0,01036	
+kilometros por hora-pie por minuto	54,68
+kilometros por hora-pulgada por minuto	656,2
+kilometros por hora-kilometros por hora	1
+kilometros por hora-metros por hora	1 000 
+metros por hora-kilometros por segundo	0,0000002778
+metros por hora-metros por segundo	0,0002778
+metros por hora-milla por segundo	0,0000001726
+metros por hora-pie por segundo	0,0009113
+metros por hora-pulgada por segundo	0,01094
+metros por hora-kilometros por minuto	0,00001667
+metros por hora-mile por minuto	0,01667
+metros por hora-pie por minuto	0,00001036
+metros por hora-pulgada por minuto	0,05468
+metros por hora-kilometros por hora	0,001
+metros por hora-metros por hora	1
+
+

@@ -1,0 +1,82 @@
+Fahrenheit
+centigrados 
+kelvin 
+reaumur
+rankine
+delisle
+newton
+romer
+Fahrenheit-Fahrenheit	1	 
+Fahrenheit-centigrados	 -17,2222222222
+Fahrenheit-kelvin	255,9277777778 
+Fahrenheit-reaumur	-14,22222
+Fahrenheit-rankine	460,6700
+Fahrenheit-delisle	-125,8333
+Fahrenheit-newton	-5,683333
+Fahrenheit-romer	-1,541667
+centigrados-Fahrenheit	33,8
+centigrados-centigrados	1
+centigrados-kelvin	274,15
+centigrados-reaumur	0,8000000
+centigrados-rankine	493,4700
+centigrados- delisle	-100,0000
+centigrados- newton	0,3300000
+centigrados- romer	8,025000
+kelvin-Fahrenheit	-457,87
+kelvin-centigrados	-272,15 
+kelvin-kelvin	1
+kelvin-reaumur	-217,7200
+kelvin-rankine	1,800000
+kelvin-delisle	-508,2250
+kelvin-newton	-89,80950
+kelvin-romer	-135,3788
+reaumur-Fahrenheit	34,25000	
+reaumur-centigrados	1,250000	
+reaumur-kelvin	274,4000	
+reaumur-reaumur	1
+reaumur-rankine	493,9200
+reaumur-delisle	-98,12500
+reaumur-newton	0,4125000
+reaumur-romer	8,156250
+rankine-Fahrenheit	-458,6700	
+rankine-centigrados	-272,5944	
+rankine-kelvin	0,5555556	
+rankine-reaumur	-218,0756
+rankine-rankine	1
+rankine-delisle	-508,8917
+rankine-newton	-89,95617
+rankine-romer	-135,6121
+delisle-Fahrenheit	153,2000	
+delisle-centigrados	67,33333	
+delisle-kelvin	340,4833	
+delisle-reaumur	53,86667
+delisle-rankine	612,8700
+delisle-delisle	1
+delisle-newton	22,22000
+delisle-romer	42,85000
+newton-Fahrenheit	37,45455	
+newton-centigrados	3,030303	
+newton-kelvin	276,1803	
+newton-reaumur	2,424242
+newton-rankine	497,1245
+newton-delisle	-95,45455
+newton-newton	1
+newton-romer	9,090909
+romer-Fahrenheit	9,714286	
+romer-centigrados	-12,38095	
+romer-kelvin	260,7690	
+romer-reaumur	-9,904762
+romer-rankine	469,3843
+romer-delisle	-118,5714
+romer-newton	-4,085714
+romer-romer	1
+
+
+
+
+
+
+
+
+
+

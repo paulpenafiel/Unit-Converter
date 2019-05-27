@@ -1,0 +1,42 @@
+centimetro cuadrado		
+milimetro cuadrado		
+metro cuadrado		
+pulgada cuadrada		
+pie cuadrado		
+yarda cuadrada		
+centimetro cuadrado-centimetro cuadrado	1
+centimetro cuadrado-milimetro cuadrado	100
+centimetro cuadrado-metro cuadrado	0,0001
+centimetro cuadrado-pulgada cuadrada	0,15500031
+centimetro cuadrado-pie cuadrado	0,0010763
+centimetro cuadrado-yarda cuadrada	0,00011959
+milimetro cuadrado-centimetro cuadrado	0,01
+milimetro cuadrado-milimetro cuadrado	1
+milimetro cuadrado-metro cuadrado	0,000001
+milimetro cuadrado-pulgada cuadrada	0,001550031
+milimetro cuadrado-pie cuadrado	0,00001076
+milimetro cuadrado-yarda cuadrada	0,000001196
+metro cuadrado-centimetro cuadrado	10000
+metro cuadrado-milimetro cuadrado	1000000
+metro cuadrado-metro cuadrado	1
+metro cuadrado-pulgada cuadrada	1550,003
+metro cuadrado-pie cuadrado	10,763911
+metro cuadrado-yarda cuadrada	1,1959
+pulgada cuadrada-centimetro cuadrado	6,4516
+pulgada cuadrada-milimetro cuadrado	645,16
+pulgada cuadrada-metro cuadrado	0,00064516
+pulgada cuadrada-pulgada cuadrada	1
+pulgada cuadrada-pie cuadrado	0,006944
+pulgada cuadrada-yarda cuadrada	0,0007716
+pie cuadrado-centimetro cuadrado	929,03
+pie cuadrado-milimetro cuadrado	92903,03
+pie cuadrado-metro cuadrado	0,092903
+pie cuadrado-pulgada cuadrada	143,9999
+pie cuadrado-pie cuadrado	1
+pie cuadrado-yarda cuadrada	0,11111
+yarda cuadrada-centimetro cuadrado	8361,2734
+yarda cuadrada-milimetro cuadrado	836127,34
+yarda cuadrada-metro cuadrado	0,836127
+yarda cuadrada-pulgada cuadrada	1295,99
+yarda cuadrada-pie cuadrado	9
+yarda cuadrada-yarda cuadrada	1

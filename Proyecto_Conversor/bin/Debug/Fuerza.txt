@@ -1,0 +1,110 @@
+meganewton		
+kilonewton		
+decanewton		
+newton		
+milinewton		
+micronewton		
+tonelada fuerza		
+kilopondio		
+kilogramo fuerza		
+gramo fuerza		
+meganewton-meganewton	1
+meganewton-kilonewton	1000
+meganewton-decanewton	100000
+meganewton-newton	1000000
+meganewton-milinewton	1000000000
+meganewton-micronewton	0,000000000001
+meganewton-tonelada fuerza	102
+meganewton-kilopondio	102000
+meganewton-kilogramo fuerza	102000
+meganewton-gramo fuerza	102000000
+kilonewton-meganewton	0,001
+kilonewton-kilonewton	1
+kilonewton-decanewton	100
+kilonewton-newton	1000
+kilonewton-milinewton	1000000
+kilonewton-micronewton	1000000000
+kilonewton-tonelada fuerza	0,102
+kilonewton-kilopondio	102
+kilonewton-kilogramo fuerza	102
+kilonewton-gramo fuerza	102000
+decanewton-meganewton	0,00001
+decanewton-kilonewton	0,01
+decanewton-decanewton	1
+decanewton-newton	10
+decanewton-milinewton	10000
+decanewton-micronewton	10000000
+decanewton-tonelada fuerza	0,00102
+decanewton-kilopondio	1,02
+decanewton-kilogramo fuerza	1,02
+decanewton-gramo fuerza	1020
+newton-meganewton	0,000001
+newton-kilonewton	0,001
+newton-decanewton	0,1
+newton-newton	1
+newton-milinewton	1000
+newton-micronewton	1000000
+newton-tonelada fuerza	0,000102
+newton-kilopondio	0,102
+newton-kilogramo fuerza	0,102
+newton-gramo fuerza	102
+milinewton-meganewton	0,000000001
+milinewton-kilonewton	0,000001
+milinewton-decanewton	0,0001
+milinewton-newton	0,001
+milinewton-milinewton	1
+milinewton-micronewton	1000
+milinewton-tonelada fuerza	0,000000102
+milinewton-kilopondio	0,000102
+milinewton-kilogramo fuerza	0,000102
+milinewton-gramo fuerza	0,102
+micronewton-meganewton	0,000000000001
+micronewton-kilonewton	0,00000001
+micronewton-decanewton	0,000001
+micronewton-newton	0,001
+micronewton-milinewton	0,001
+micronewton-micronewton	1
+micronewton-tonelada fuerza	0,0000000000102
+micronewton-kilopondio	0,000000102
+micronewton-kilogramo fuerza	0,000000102
+micronewton-gramo fuerza	0,000102
+tonelada fuerza-meganewton	0,0098
+tonelada fuerza-kilonewton	9,807
+tonelada fuerza-decanewton	980,7
+tonelada fuerza-newton	9807
+tonelada fuerza-milinewton	9807000
+tonelada fuerza-micronewton	9807000000
+tonelada fuerza-tonelada fuerza	1
+tonelada fuerza-kilopondio	1000
+tonelada fuerza-kilogramo fuerza	1000
+tonelada fuerza-gramo fuerza	1000000
+kilopondio-meganewton	0,0000098
+kilopondio-kilonewton	0,009807
+kilopondio-decanewton	0,9807
+kilopondio-newton	9,807
+kilopondio-milinewton	9807
+kilopondio-micronewton	9807000
+kilopondio-tonelada fuerza	0,001
+kilopondio-kilopondio	1
+kilopondio-kilogramo fuerza	1
+kilopondio-gramo fuerza	1000
+kilogramo fuerza-meganewton	0,0000098
+kilogramo fuerza-kilonewton	0,009807
+kilogramo fuerza-decanewton	0,9807
+kilogramo fuerza-newton	9,807
+kilogramo fuerza-milinewton	9807
+kilogramo fuerza-micronewton	9807000
+kilogramo fuerza-tonelada fuerza	0,001
+kilogramo fuerza-kilopondio	1
+kilogramo fuerza-kilogramo fuerza	1
+kilogramo fuerza-gramo fuerza	1000
+gramo fuerza-meganewton	0,000000009807
+gramo fuerza-kilonewton	0,0000098
+gramo fuerza-decanewton	0,00098
+gramo fuerza-newton	0,0098
+gramo fuerza-milinewton	9,807
+gramo fuerza-micronewton	9807
+gramo fuerza-tonelada fuerza	0,000001
+gramo fuerza-kilopondio	0,001
+gramo fuerza-kilogramo fuerza	0,001
+gramo fuerza-gramo fuerza	1
